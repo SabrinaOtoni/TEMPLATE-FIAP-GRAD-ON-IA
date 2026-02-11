@@ -26,6 +26,7 @@ Aqui está documentada minha evolução técnica, analítica e estratégica ao l
 - Documentações técnicas completas
 - Arquiteturas de solução
 - Estudos dirigidos e explorações técnicas
+- ...
 
 Este repositório funciona como um **portfólio técnico estruturado**, evidenciando domínio progressivo das competências exigidas na formação.
 
