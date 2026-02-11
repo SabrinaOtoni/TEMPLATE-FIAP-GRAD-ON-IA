@@ -65,6 +65,7 @@ Organizar e versionar todo o fluxo de desenvolvimento acadêmico, garantindo:
 │   └── 📂 ...
 │
 └── README.md
+```
 
 ---
 
